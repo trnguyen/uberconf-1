@@ -1,0 +1,11 @@
+# Things to ignore
+junk*.txt
+build/
+target/
+bin/
+out/
+.classpath
+.settings/
+.project
+*.log
+
